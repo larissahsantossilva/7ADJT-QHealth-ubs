@@ -15,6 +15,7 @@ Esse módulo é ideal para garantir **organização, rastreabilidade e eficiênc
 
 ## 🚀 Tecnologias Principais  
 - **Java Spring Boot** – API REST robusta e escalável.  
-- **Banco de Dados Relacional** – persistência de informações das UBS e atendimentos.  
+- **Banco de Dados Relacional** – persistência de informações das UBS e atendimentos.
+- **Swagger/OpenAPI** – documentação interativa dos endpoints. 
 - **JUnit** – criação e execução de testes automatizados.  
 - **Docker** – containerização para deploy simplificado.
